@@ -1,9 +1,9 @@
 # 7anooTech
 ### Realization of a partial distance selling platform adapted to the constraints of the Algerian market .
 
-<img src="https://raw.githubusercontent.com/th3happybit/7anooTech/master/logo.png" alt="7anooTech" class="inline"/>
+<img src="https://raw.githubusercontent.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH/master/logo.png" alt="7anooTech" class="inline"/>
 
-<img src="https://raw.githubusercontent.com/th3happybit/7anooTech/master/7anooTechScreenShots/7anooTechScreenshot-2018-6-5-SupperetteCom-Home-1.jpg" alt="Home Page" class="inline"/>
+<img src="https://raw.githubusercontent.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH/master/7anooTechScreenShots/7anooTechScreenshot-2018-6-5-SupperetteCom-Home-1.jpg" alt="Home Page" class="inline"/>
 
 ## Developed by :
 - AMAR BENSABER MOHMAED
@@ -13,9 +13,9 @@
 - IFFEROUDJENE MOULOUD
 - MESSABIH OUSSAMA
 
-# [ ScreenShots ]( https://github.com/th3happybit/7anooTech/blob/master/7anooTechScreenShots/README.md )
+# [ ScreenShots ]( https://github.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH/blob/master/7anooTechScreenShots/README.md )
 
-# [ Docs ]( https://github.com/th3happybit/7anooTech/blob/master/docs/README.md )
+# [ Docs ]( https://github.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH/blob/master/docs/README.md )
 
 
 ## Installation
@@ -24,7 +24,7 @@
 #### Get the source code
 First run the following command to get the Project code:
 ```bash
-$ git clone https://github.com/th3happybit/7anooTech
+$ git clone https://github.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH
 ```
 
 Then change your current directory to 7anooTech:
@@ -65,7 +65,7 @@ All this containers are connected together in a local virtual LAN and can't be a
 	extension=pdo_mysql.so`
 - clone this repository
 
-	`git clone https://github.com/th3happybit/7annoTech.git`
+	`git clone https://github.com/SeyfGoumeida/PROJECT-2CPI-7ANOOTECH.git`
 
 - navigate to the project folder
 - run `composer install` on your terminal
